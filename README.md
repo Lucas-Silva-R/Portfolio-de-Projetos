@@ -5,13 +5,14 @@
 </p>
 
 # Lucas Ribeiro da Silva
-<sub>*Data Scientist Enthusiast*</sub>
+<sub>*Data Scientist Beginner*</sub>
 
-I'm a professional with experience in the field of data analysis, examining strategic performance indicadores and delivering relevant insights for the decision-making of teams in Startups in the tax industry and mid and big size companies from retail and mining industries.
+Sou um profissional com experiência no campo de análise de dados, examinando indicadores de performance estratégicos e gerando insights relevantes para tomada de decisão de equipes em Startups no segmento fiscal e empresas de médio e grande porte nos setores de varejo e mineração.
 
-Enthusiast in the fields of games and e-sports, continually keeping track of the growth, changes and innovations in this market.
+Grande entusiasta da indústria de games e e-sports, acompanhando continuamente o crescimento, as mudanças e inovações deste mercado.
 
-Master by the COPPEAD institute, one of the greatest business schools in Brasil, recognized by its education with the most contemporary knowledge expansion of a variety of corporate areas.
+Mestre pelo instituto COPPEAD, uma das maiores escolas de negócios do Brasil, reconhecida por seu ensino com a expansão do conhecimento mais contemporâneo de várias áreas corporativas.
+
 
 **Background in:** SQL, Python and VBA languages and advanced MS Office
 
