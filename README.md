@@ -18,7 +18,7 @@ Mestre pelo instituto COPPEAD, uma das maiores escolas de negócios do Brasil, r
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucas-ribeiro-silva/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@lucasrsilva1996)
 
 
 ## Projetos:
