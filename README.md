@@ -23,7 +23,7 @@ Mestre pelo instituto COPPEAD, uma das maiores escolas de negócios do Brasil, r
 
 ## Projetos:
 
-* **Projeto de estadia Airbnb (Ottawa, Ontário, Canadá):** bit.ly/projeto-lucas-airbnb
+* **Projeto de estadia Airbnb (Ottawa, Ontário, Canadá):** https://bit.ly/projeto-lucas-airbnb
 
 ---
 
