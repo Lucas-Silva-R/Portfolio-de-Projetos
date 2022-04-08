@@ -24,5 +24,5 @@ Mestre pelo instituto COPPEAD, uma das maiores escolas de negócios do Brasil, r
 ## Projetos:
 
 * **Projeto de estadia Airbnb (Ottawa, Ontário, Canadá):** https://bit.ly/analise_airbnb_lucas_r_silva
-* **Projeto Panorama COVID-19 2022:** https://bit.ly/panorama_covid19_2022_lucas_silva
+* **Projeto Panorama COVID-19 2022:** https://bit.ly/panorama_covid19_2022_lucas_r_silva
 
