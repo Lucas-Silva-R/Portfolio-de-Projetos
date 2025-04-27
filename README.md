@@ -20,9 +20,9 @@ Master’s degree from COPPEAD Institute, one of the leading business schools in
 * [Medium](https://medium.com/@lucasrsilva1996)
 
 
-## Projetos:
+## Projects:
 
-* [Projeto de estadia Airbnb (Ottawa, Ontário, Canadá)](https://bit.ly/analise_airbnb_lucas_r_silva)
-* [Projeto Panorama COVID-19 2022](https://bit.ly/panorama_covid19_2022_lucas_r_silva)
-* [Projeto Fraude de Cartão de Crédito](https://bit.ly/analise_fraude_cartao_lucas_silva)
+* [Airbnb Project (Ottawa, Ontário, Canadá)](https://bit.ly/analise_airbnb_lucas_r_silva)
+* [COVID-19 2022 Panoram Project](https://bit.ly/panorama_covid19_2022_lucas_r_silva)
+* [Credit Card Fraude Project](https://bit.ly/analise_fraude_cartao_lucas_silva)
 
